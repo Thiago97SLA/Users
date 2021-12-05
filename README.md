@@ -6,7 +6,11 @@ It is an application that implements the service of https://jsonplaceholder.typi
 to consult the available users. 
 
 
-![image](https://user-images.githubusercontent.com/85606458/144753456-3c90dc27-5539-4a18-a0cb-d7f5798c66aa.png)
+
+
+
+https://user-images.githubusercontent.com/85606458/144754360-18321bf7-6f04-4afe-a571-d57e55181136.mp4
+
 
 
 
